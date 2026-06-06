@@ -6,1807 +6,2409 @@
       "word": "sharply",
       "cn": "尖锐地；急剧地；严厉地 adv.",
       "count": 3,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "absolutely",
       "cn": "绝对地 adv.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "atmosphere",
       "cn": "气氛；大气 n.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "cancel",
       "cn": "取消 v.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "citizen",
       "cn": "居民 n.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "force",
       "cn": "力 n. / 强迫 v.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "massive",
       "cn": "巨大的 adj.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "persuade",
       "cn": "说服；劝说 v.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "resonate",
       "cn": "共鸣；共振 v.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "route",
       "cn": "路线 n.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "supply",
       "cn": "供给；供应 n./v.",
       "count": 2,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "absence",
       "cn": "缺席 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "according to",
       "cn": "根据",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "account for",
       "cn": "解释；说明；占",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "accurate",
       "cn": "精确的；正确无误的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "adapt",
       "cn": "适应；改编 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "adapted",
       "cn": "适应的；改编的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "addicted to",
       "cn": "对…上瘾",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "adjust",
       "cn": "调整 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "adoptable",
       "cn": "可采用的；可收养的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "aimed at",
       "cn": "旨在",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "algae",
       "cn": "藻类 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "ambition",
       "cn": "野心；抱负 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "an aha moment",
       "cn": "灵光一闪；顿悟时刻",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "analyse",
       "cn": "分析 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "annoyed",
       "cn": "生气的；恼怒的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "apart from",
       "cn": "除…之外",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "apply",
       "cn": "涂抹；申请；应用 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "apply to",
       "cn": "适用于；申请",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "appoint",
       "cn": "任命 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "appreciate",
       "cn": "欣赏；感激 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "appreciates",
       "cn": "欣赏；感激 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "appropriate",
       "cn": "合适的 adj. / 挪用 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "argue for",
       "cn": "为…争辩；支持；主张",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "artistry",
       "cn": "艺术性；技艺 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "assignment",
       "cn": "任务 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "awkward",
       "cn": "尴尬的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "azalea",
       "cn": "杜鹃花 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "backpacks",
       "cn": "背包 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "be designed for",
       "cn": "为…设计",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "belonging",
       "cn": "随身物品；所有物 n.(复数)",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "belt",
       "cn": "腰带 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "bend over",
       "cn": "弯腰",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "bleaching",
       "cn": "漂白；白化 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "branches",
       "cn": "树枝 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "break off",
       "cn": "折断；中断；突然停止",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "breed",
       "cn": "繁殖 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "brief",
       "cn": "简洁的 adj. / 摘要 n. / 给指示 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "broad",
       "cn": "广泛的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "budgets",
       "cn": "预算 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "burnt",
       "cn": "烧焦的 adj./v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "by accident",
       "cn": "偶然地；意外地",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "cabin",
       "cn": "客舱 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "cage",
       "cn": "笼子 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "canary",
       "cn": "金丝雀 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "capability",
       "cn": "能力；才能；性能 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "capital",
       "cn": "首都；资金 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "carpet",
       "cn": "地毯 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "carrier",
       "cn": "载体 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "carry away",
       "cn": "使激动；带走 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "carry out",
       "cn": "执行；实施",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "casually",
       "cn": "随便地；随意地 adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "charge",
       "cn": "费用 n. / 收费 v. / 指控 n./v. / 充电 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "charming",
       "cn": "迷人的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "cherry blossoms",
       "cn": "樱花 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "chestnut",
       "cn": "栗子；板栗 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "collaboration",
       "cn": "合作 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "collaborative",
       "cn": "合作的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "collar",
       "cn": "颈圈；衣领 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "combination",
       "cn": "结合；组合 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "combine",
       "cn": "使结合；组合 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "come across",
       "cn": "无意中发现；偶遇",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "commented",
       "cn": "评论 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "compared to",
       "cn": "与…相比",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "complicated",
       "cn": "复杂的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "concrete",
       "cn": "混凝土 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "confirm",
       "cn": "确认；证实 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "conservation",
       "cn": "保护 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "consume",
       "cn": "消耗；消费 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "consumption",
       "cn": "消耗；消费 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "container",
       "cn": "容器 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "cozy",
       "cn": "舒适的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "crime",
       "cn": "犯罪 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "criticize",
       "cn": "批评；评论 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "crop",
       "cn": "庄稼；作物 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "crucial",
       "cn": "至关重要的；关键的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "crust",
       "cn": "面包皮；外壳；地壳 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "damage",
       "cn": "损坏 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "dates back to",
       "cn": "追溯至",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "decorate",
       "cn": "装饰；装潢 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "delight",
       "cn": "高兴 n. / 使高兴 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "delivery",
       "cn": "递送 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "demand",
       "cn": "需求 n./v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "depression",
       "cn": "抑郁；沮丧；萧条 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "destination",
       "cn": "目的地 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "determined",
       "cn": "坚定的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "digest",
       "cn": "摘要；文摘 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "direct",
       "cn": "直接的 adj./指导 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "discouraged",
       "cn": "气馁的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "district leader",
       "cn": "区长 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "diverse",
       "cn": "多种多样的；不同的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "draft",
       "cn": "起草 v. / 草稿 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "echo",
       "cn": "回声 n. / 回响 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "editor",
       "cn": "编辑 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "effective",
       "cn": "有效的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "effectiveness",
       "cn": "有效性 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "elegance",
       "cn": "优雅；雅致 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "elegant",
       "cn": "优雅的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "emerge",
       "cn": "出现；浮现 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "emphasize",
       "cn": "强调；使突出 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "emptiness",
       "cn": "空虚；空无 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "encounter",
       "cn": "遇到；邂逅 v./n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "endangered",
       "cn": "濒危的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "enhance",
       "cn": "增强；提高 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "entertainment",
       "cn": "娱乐 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "envy",
       "cn": "羡慕；嫉妒 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "era",
       "cn": "纪元；时代 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "essential",
       "cn": "基本的 adj. / 必需品 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "establish",
       "cn": "建立；创立 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "established",
       "cn": "已确立的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "eventually",
       "cn": "最终；终于 adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "evidence",
       "cn": "证据；证明；迹象 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "exact location",
       "cn": "精确位置 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "exhibition",
       "cn": "展览 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "expectation",
       "cn": "期待；预期 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "favor",
       "cn": "支持 n./v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "favorable",
       "cn": "有利的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "favorably",
       "cn": "有利地 adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "feature",
       "cn": "特色 n. / 以…为特色 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "fell behind",
       "cn": "落后",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "fell off",
       "cn": "跌落；减少",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "fence",
       "cn": "栅栏；围栏 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "field",
       "cn": "领域；田野 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "fix up",
       "cn": "修理；安顿",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "float",
       "cn": "浮动；漂浮 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "floral canopy",
       "cn": "花冠；花蓬 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "footprint",
       "cn": "脚印；足迹 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "forced",
       "cn": "强迫的 v./adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "form",
       "cn": "形成；构成 v./n.形式；形状",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "gem",
       "cn": "宝石；珍品 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "genre",
       "cn": "类型；流派 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "get used",
       "cn": "习惯",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "governor",
       "cn": "州长；总督 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "guarantee",
       "cn": "保证；担保 v./n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "habitat",
       "cn": "栖息地 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "habitat loss",
       "cn": "栖息地丧失",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "halved",
       "cn": "对半的；减半的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "hard-sided",
       "cn": "硬边的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "hard-to-get",
       "cn": "难以获得的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "hesitant",
       "cn": "犹豫的；迟疑的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "highlight",
       "cn": "强调；亮点 v./n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "house",
       "cn": "给…提供住所 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "imbalance",
       "cn": "不平衡 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "imitate",
       "cn": "模仿；仿效 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "immersive",
       "cn": "沉浸式的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "impressed",
       "cn": "印象深刻的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "in case of",
       "cn": "万一；如果发生",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "in horror",
       "cn": "惊恐地",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "in no time",
       "cn": "立刻；马上",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "in person",
       "cn": "亲自",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "indicate",
       "cn": "表明；暗示；指示 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "industry",
       "cn": "行业；工业 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "infrastructure",
       "cn": "基础设施 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "insight",
       "cn": "洞察力；深刻见解 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "inspiration",
       "cn": "灵感 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "institutions",
       "cn": "学院 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "intense",
       "cn": "强烈的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "intensity",
       "cn": "强度 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "interactions",
       "cn": "互动 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "interrupt",
       "cn": "插嘴；打断 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "involve",
       "cn": "涉及 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "irrelevant",
       "cn": "不相关的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "is made up",
       "cn": "由…组成",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "it occurred to me",
       "cn": "我突然想到",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "journal",
       "cn": "日记；期刊 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "keep up",
       "cn": "跟上；保持",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "knock on",
       "cn": "敲击；撞上",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "knock over",
       "cn": "撞倒；打翻",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "large amounts of",
       "cn": "大量的",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "liter",
       "cn": "升 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "lovely",
       "cn": "可爱的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "made up",
       "cn": "组成；编造",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "mating season",
       "cn": "交配季节",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "medication",
       "cn": "药物；药品 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "migrate",
       "cn": "迁徙；迁移 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "millennials",
       "cn": "千禧一代 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "modernize",
       "cn": "现代化 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "monitoring",
       "cn": "监测 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "mood",
       "cn": "情绪 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "nest",
       "cn": "巢 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "network",
       "cn": "网络 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "observe",
       "cn": "观察；遵守 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "obvious",
       "cn": "明显的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "obviously",
       "cn": "明显地 adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "obviousness",
       "cn": "明显 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "occur",
       "cn": "发生；出现 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "on show",
       "cn": "展出中",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "on the whole",
       "cn": "总体上；大体上",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "otherwise",
       "cn": "否则；不然；在其他方面 conj./adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "outcome",
       "cn": "结果 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "outcomes",
       "cn": "结果 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "outdated",
       "cn": "过时的；陈旧的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "overall",
       "cn": "总体的 adj./adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "paint over",
       "cn": "涂盖；粉刷覆盖",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "participate in",
       "cn": "参与",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "pattern",
       "cn": "图案；模式 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "persevere",
       "cn": "坚持；锲而不舍 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "persistence",
       "cn": "坚持不懈；毅力 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "personality",
       "cn": "个性 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "perspectives",
       "cn": "角度；观点；看法 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "pine cone",
       "cn": "松果；松球 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "podcast",
       "cn": "播客 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "polish",
       "cn": "抛光；擦亮；润色 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "possess",
       "cn": "拥有；持有 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "possession",
       "cn": "拥有；财产 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "precious",
       "cn": "珍贵的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "precise",
       "cn": "精准的；精确的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "presented",
       "cn": "呈现的 v./adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "preserve",
       "cn": "保护 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "pretend",
       "cn": "假装；伪装 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "priority",
       "cn": "优先事项 n. / 优先的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "productive",
       "cn": "富有成效的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "pursue",
       "cn": "追求；追赶 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "puzzled",
       "cn": "困惑的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "ranges",
       "cn": "范围 n./分布 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "rare",
       "cn": "罕见的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "rarely",
       "cn": "很少；难得 adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "react",
       "cn": "反应 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "reasonably",
       "cn": "合理地；适度地 adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "recite",
       "cn": "背诵；朗诵 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "recovery",
       "cn": "恢复 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "rediscover",
       "cn": "重新发现 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "refer to",
       "cn": "参考；指的是",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "refinement",
       "cn": "精炼；改进 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "regard as",
       "cn": "将…视为；把…当作",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "regardless",
       "cn": "不管；不顾",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "regardless of",
       "cn": "不管；不顾",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "rehabilitate",
       "cn": "修复 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "rejection",
       "cn": "拒绝；拒收 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "remain",
       "cn": "保持 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "reserve",
       "cn": "预订；保护区 v./n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "reserves",
       "cn": "储备 n./预订 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "reshaping",
       "cn": "重塑 n./v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "resilience",
       "cn": "适应力；韧性；恢复力 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "resonance",
       "cn": "共鸣 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "response",
       "cn": "回应；反应；答复 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "rhythmic",
       "cn": "有节奏的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "routine",
       "cn": "常规 n./adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "ruin",
       "cn": "毁灭；破坏；毁坏 v./n.废墟；遗迹",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "satellite",
       "cn": "卫星；人造卫星 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "scan through",
       "cn": "浏览；快速查看",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "scenery",
       "cn": "风景 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "seal",
       "cn": "密封；盖章 v. / 印章；海豹 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "seasonal",
       "cn": "季节性的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "sense",
       "cn": "意识；感觉 n. / 理解；意识到 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "set out",
       "cn": "出发；着手做",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "shortage",
       "cn": "短缺 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "show off",
       "cn": "炫耀",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "soundly",
       "cn": "健全地；酣畅地 adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "souvenirs",
       "cn": "纪念品 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "specialized",
       "cn": "专门的 adj. / 专攻 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "spread",
       "cn": "传播；扩散 v./n.范围；扩散",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "springboard",
       "cn": "跳板 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "stamp",
       "cn": "盖章；跺脚 v. / 邮票；印章 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "standard",
       "cn": "标准 n./adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "step over",
       "cn": "跨过",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "strategy",
       "cn": "策略 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "strike",
       "cn": "打击；撞击 v. / 罢工 n./v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "strive to",
       "cn": "努力；力争；力求",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "struggling",
       "cn": "挣扎的 adj./v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "stuck",
       "cn": "卡住；陷入 v./adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "submit",
       "cn": "提交；屈服 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "summit",
       "cn": "峰会；山顶 n. / 最高级的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "surround",
       "cn": "包围；环绕 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "survey",
       "cn": "调查 n./v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "take images",
       "cn": "拍摄图像",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "take shape",
       "cn": "成形；形成",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "tearfully",
       "cn": "含泪地；悲伤地 adv.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "tend",
       "cn": "倾向于 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "threatened",
       "cn": "威胁的",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "timing",
       "cn": "时机 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "titled",
       "cn": "题为…的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "tremble",
       "cn": "颤抖的 adj. / 发抖 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "trend",
       "cn": "趋势 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "tribal",
       "cn": "部落的；部族的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "troupe",
       "cn": "剧团；演出团 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "turn down",
       "cn": "拒绝；调低 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "undergraduate",
       "cn": "本科生 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "unearth",
       "cn": "挖掘；发掘 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "unexpected",
       "cn": "意外的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "unpredictable",
       "cn": "无法预测的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "urban",
       "cn": "都市的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "urge",
       "cn": "力劝 v. / 冲动 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "version",
       "cn": "版本 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "violent",
       "cn": "暴力的；猛烈的 adj.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "weave",
       "cn": "编织；编排 v.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "weeping plum",
       "cn": "垂枝梅 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "weighs most",
       "cn": "最重要；最具分量",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "wisdom",
       "cn": "智慧 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     },
     {
       "word": "wordplay",
       "cn": "文字游戏；双关语 n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": true,
+      "tag_seasonal": false
     },
     {
       "word": "worsening",
       "cn": "恶化的 adj./n.",
       "count": 1,
-      "is_superhit": false
+      "is_superhit": false,
+      "tag_weekly": false,
+      "tag_seasonal": false
     }
   ]
 }
